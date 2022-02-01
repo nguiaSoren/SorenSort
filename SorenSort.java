@@ -1,4 +1,7 @@
 
+// OBOUNOU LEKOGO NGUIA Benaja Soren
+// nguiaSoren
+// 01 feb 2022
 public class SorenSort{
    
     static void sorenSort(int[] arr) { 
