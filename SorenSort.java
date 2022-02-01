@@ -1,7 +1,8 @@
 
-// OBOUNOU LEKOGO NGUIA Benaja Soren
+// copyright © 2022 OBOUNOU LEKOGO NGUIA Benaja Soren. All rights reserved.
 // nguiaSoren
 // 01 feb 2022
+
 public class SorenSort{
    
     static void sorenSort(int[] arr) { 
